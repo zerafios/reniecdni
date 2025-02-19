@@ -1,0 +1,15 @@
+# Ignorar archivos sensibles
+.env
+package.json
+package-lock.json
+
+# Ignorar dependencias
+node_modules/
+
+# Ignorar archivos de compilación
+build/
+dist/
+
+# Ignorar configuraciones de editor
+.vscode/
+.idea/
