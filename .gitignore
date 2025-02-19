@@ -1,7 +1,6 @@
 # Ignorar archivos sensibles
 .env
-package.json
-package-lock.json
+
 
 # Ignorar dependencias
 node_modules/
